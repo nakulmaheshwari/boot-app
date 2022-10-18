@@ -2,7 +2,7 @@
 package com.example.demo.controller;
 
 
-/*
+
         import com.example.demo.controllers.AppController;
         import com.example.demo.entities.Orders;
         import com.example.demo.entities.Product;
@@ -133,4 +133,3 @@ public class ProductControllerTest {
 
     }
 }
-*/
